@@ -1,0 +1,25 @@
+INFO:  2022-02-25 11:23:31,622 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ Starting Kernel Extension 
+
+INFO:  2022-02-25 11:23:31,623 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ Socket Listening on port 50705 
+
+INFO:  2022-02-25 11:23:31,624 - sparkmonitorkernel - 309 - MainProcess -         140330249893632 - Thread-7
+ Starting socket thread, going to accept 
+
+INFO:  2022-02-25 11:23:31,624 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ 50705 
+
+INFO:  2022-02-25 11:23:31,625 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ Adding jar from /opt/conda/lib/python3.9/site-packages/sparkmonitor/listener.jar  
+
+INFO:  2022-02-25 11:23:31,869 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2022, 2, 25, 10, 23, 31, 631000, tzinfo=tzutc()), 'msg_id': 'ea779616-3706-4833-a027-96d9519c72ab', 'msg_type': 'comm_open', 'session': '39b8b10f-ef68-4b17-ad68-e0338ffa505d', 'username': '', 'version': '5.2'}, 'msg_id': 'ea779616-3706-4833-a027-96d9519c72ab', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '5e421795-2e89-46a5-9242-10ddcb4d937d', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
+INFO:  2022-02-25 11:23:31,875 - sparkmonitorkernel - 309 - MainProcess -         140339958503232 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2022, 2, 25, 10, 23, 31, 631000, tzinfo=tzutc()), 'msg_id': '658477aa-14d8-40a8-9de3-20a6a37802fb', 'msg_type': 'comm_open', 'session': '39b8b10f-ef68-4b17-ad68-e0338ffa505d', 'username': '', 'version': '5.2'}, 'msg_id': '658477aa-14d8-40a8-9de3-20a6a37802fb', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '485826dc-2990-4d78-9e15-4dd688ceaabe', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
