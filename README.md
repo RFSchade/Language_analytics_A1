@@ -1,6 +1,6 @@
 # Language Analytics Assignment 1
 ## Assignment description
-This repository contains my solutions to assignment 1 for the Language Analytics course at Aarhus university. The goal of this assignment is to write a program that can take a user-defined search term, window size, and text and find all the context words which appear ± the window size from the search term in that text, as well as calculate the mutual information (MI) score for each context word.    
+This repository contains my solution to assignment 1 for the Language Analytics course at Aarhus university. The goal of this assignment is to write a program that can take a user-defined search term, window size, and text and find all the context words which appear ± the window size from the search term in that text, as well as calculate the mutual information (MI) score for each context word.    
 The script was made to run on data sourced from the 100 English Novels corpus found here: https://github.com/computationalstylistics/100_english_novels
 
 ## Methods
